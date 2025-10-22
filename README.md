@@ -1,3 +1,6 @@
+# Project 2 — Reusable Components in React
+This project is the second step in my React learning journey. It focuses on building reusable UI components — specifically a flexible Button and a Card component — using React props, event handling, conditional rendering, and Tailwind CSS for styling. Through this project, I learned how to create modular and maintainable components that can adapt to different use cases by passing props, handling user interactions with events like onClick, and displaying elements conditionally based on props. I also discovered how the special children prop allows nesting content dynamically, helping me understand how to compose small, reusable pieces into a scalable and interactive React UI.
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
